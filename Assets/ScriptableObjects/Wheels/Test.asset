@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac34965ecbbb32f419f6aba85357319e, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  moves:
+  - move: {fileID: 11400000, guid: 21916bc8e6e885140aa9470df79d1553, type: 2}
+    priority: 100
